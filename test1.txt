@@ -1,5 +1,5 @@
-I born in 1980 December 25
+I born in 1980 December 21
 I have done my SSC in 1995 and HSC in 1997
 I have completed Bachelor degree in 2015
-
 logo alignment is centered.
+new line is added in feature branch
